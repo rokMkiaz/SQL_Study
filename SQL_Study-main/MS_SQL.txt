@@ -6,3 +6,29 @@ CRUD(Create-Read-Update-Delete)
 nvarchar - n은 유니코드로 해석
 DB는 깊게 이해하고 접근해야한다. 게임의 경우DB속도로도
 게임 진행에 대해 큰 영향을 끼친다.
+
+SUBSTRING :문자열 추출
+날짜는 문자열로 들어가는데, 
+
+저장프로시저-DBMS에서 제공하는 프로그램 SQL
+DB기능 이지만 프로그램이기 때문에 간단한 문법
+인 IF, WHILE 등 프로그래밍 문법을 사용할 수 있고
+프로시저를 호출할 때 매개변수를 받거나 전달
+
+COUNT(*)OVER(PARTITION BY charunique) 
+를 해줘야 숫자를 해야 원하는 부분만 숫자셀 수 있음.
+
+Index, Transaction(트랜잭션) 
+        캐릭터유니크
+
+4217 : 14215기록
+4215 : 14217기록  
+
+skillindex
+ lv 10까지만 공짜고 한번을 더 사용해야 ->11
+공짜로 11로 올라가는 스킬 + 버그찾기
+i32index - 4
+i32item index- 14
+
+[charunique]  ,[skillindex]
+217,801,211,215
