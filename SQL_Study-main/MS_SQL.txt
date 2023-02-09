@@ -10,6 +10,11 @@ DB는 깊게 이해하고 접근해야한다. 게임의 경우DB속도로도
 SUBSTRING :문자열 추출
 날짜는 문자열로 들어가는데, 
 
+FROM-> WHERE-> GROUP BY(분류)-> HAVING(분류 후 조건)-> SELECT->ORDER BY
+
+
+
+-------------------------------------------------- 회사 과제물
 저장프로시저-DBMS에서 제공하는 프로그램 SQL
 DB기능 이지만 프로그램이기 때문에 간단한 문법
 인 IF, WHILE 등 프로그래밍 문법을 사용할 수 있고
@@ -21,8 +26,6 @@ COUNT(*)OVER(PARTITION BY charunique)
 Index, Transaction(트랜잭션) 
         캐릭터유니크
 
-4217 : 14215기록
-4215 : 14217기록  
 
 skillindex
  lv 10까지만 공짜고 한번을 더 사용해야 ->11
